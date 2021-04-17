@@ -436,6 +436,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .icon-boxes {
   margin-top: 100px;
+  justify-content: center;
 }
 
 #hero .icon-box {
@@ -483,6 +484,10 @@ h1, h2, h3, h4, h5, h6 {
 #hero .icon-box:hover .title a {
   color: #2487ce;
 }
+
+/* *, ::after, ::before {
+  box-sizing: unset !important;
+} */
 
 @media (min-width: 1024px) {
   #hero {
