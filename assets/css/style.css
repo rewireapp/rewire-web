@@ -1571,6 +1571,13 @@ section {
   color: #217bbc;
 }
 
+.contact .info a {
+  padding: 0 0 0 16px;
+  margin-bottom: 0;
+  font-size: 14px;
+  color: #217bbc;
+}
+
 .contact .info .email, .contact .info .phone {
   margin-top: 40px;
 }
