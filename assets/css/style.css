@@ -1578,8 +1578,12 @@ section {
   color: #217bbc;
 }
 
-.contact .info .email, .contact .info .phone {
-  margin-top: 40px;
+.contact .info .email {
+  margin-top: 10px;
+}
+
+.contact .info .phone {
+  margin-top: 15px;
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
@@ -1781,7 +1785,7 @@ section {
   font-weight: bold;
   color: #124265;
   position: relative;
-  padding-bottom: 12px;
+  padding-bottom: 2px;
 }
 
 #footer .footer-top .footer-links {
