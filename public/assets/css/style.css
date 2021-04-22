@@ -389,7 +389,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.75);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -398,7 +398,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .container {
-  padding-top: 80px;
+  padding-top: 30px;
 }
 
 #hero h1 {
@@ -435,7 +435,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .icon-boxes {
-  margin-top: 100px;
+  margin-top: 60px;
   justify-content: center;
 }
 
@@ -603,6 +603,10 @@ section {
   background: #2487ce;
   color: #fff;
   text-decoration: none;
+}
+
+.teammates {
+  justify-content: center;
 }
 
 /*--------------------------------------------------------------
